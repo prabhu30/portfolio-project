@@ -21,6 +21,7 @@
     /* set the font here */
     /* set the text alignment here */
     background-image:url("keyboard.jpg");
+    background-attachment:fixed;
     color: lightgrey;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
