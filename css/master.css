@@ -5,6 +5,7 @@
   a {
     /* set the text color to blue here */
     /* This means we do not want hyperlinks to be underlined */
+    text-decoration:underline;
     color: blue;
   }
 
