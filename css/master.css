@@ -4,7 +4,7 @@
 
   a {
     /* set the text color to blue here */
-    text-decoration: none; /* This means we do not want hyperlinks to be underlined */
+    /* This means we do not want hyperlinks to be underlined */
     color: blue;
   }
 
