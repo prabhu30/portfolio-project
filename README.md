@@ -1,4 +1,2 @@
-# prabhu30.github.io
-Hello There , i am Prabhu Kalyan. This is My Github Repository.
-# Activity
-Attended AI Boot Camp in VVIT<h1>
+Thanks for taking a look here!
+Visit the website here - [Link](https://prabhu30.github.io/portfolio-project/)
